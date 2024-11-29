@@ -2,6 +2,9 @@
 
 This repository contains an interactive data visualization tool for analyzing and comparing rainfall and temperature data from multiple sources (BOM, NASA-POWER, and ERA5). The tool provides an intuitive interface to explore correlations, visualize trends, and perform lagged accumulations for selected sites.
 
+![image](https://github.com/user-attachments/assets/3c4703a3-12b9-4778-9a46-6c33cc9ea5f3)
+
+
 ## Features
 
 - **Dynamic Data Loading**:
