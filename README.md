@@ -42,8 +42,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/climate-visualization-tool.git
-   cd climate-visualization-tool
+   git clone https://github.com/your-username/climate-comparison-tool.git
+   cd climate-comparison-tool
 
  2. Install the necessary packages  
 
