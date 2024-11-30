@@ -1,0 +1,20 @@
+Station ID,Station Name,lat,lon,site elevation,state,lies_within
+79105,Stawell Aerodrome,-37.07,142.74,235,VIC,10 km
+33260,Svendsen Beach,-23.16,150.96,25,QLD,20 km
+63093,Wombeyan Caves,-34.3093,149.9677,580,NSW,10 km
+23892,Montacute,-34.8856,138.7562,312,SA,5 km
+23896,Athelstone (Black Hill Alert),-34.8757,138.7103,238,SA,5 km
+23867,Ashton,-34.9313,138.75,496,SA,5 km
+26099,Naracoorte Aerodrome,-36.9813,140.727,50,SA,5 km
+85238,Erica (Parkers Corner),-37.9532,146.3896,483,VIC,5 km
+65034,Wellington (D&j Rural),-32.5635,148.9503,305,NSW,5 km
+90055,Macarthur (Post Office),-38.0339,141.9998,80,VIC,15 km
+72141,Yarrangobilly Caves,-35.725,148.4916,980,NSW,10 km
+59055,Toorooka (Moparrabah),-30.9699,152.511,80,NSW,10 km
+59128,"Majors Creek (Moparrabah, Parrabel Creek)",-30.9783,152.5106,,NSW,10 km
+91086,Ringarooma (Main Street),-41.2439,147.7353,285,TAS,15 km
+91029,Dunorlan (Sharmans Road),-41.4978,146.535,274,TAS,15 km
+23842,Mount Lofty,-34.9784,138.7088,685,SA,10 km
+70080,Taralga (Community Garden),-34.4002,149.8174,845,NSW,20 km
+85291,Mount Baw Baw,-37.8384,146.2747,1561,VIC,20 km
+33208,Rossyln Bay NTC AWS,-23.161,150.7901,,QLD,15 km
